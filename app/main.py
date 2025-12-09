@@ -23,7 +23,7 @@ async def lifespan(_app: FastAPI):
     run_batch_job()
 
     # Start scheduler (runs every 3 minutes)
-    scheduler.add_job(run_batch_job, "interval", minutes=24)
+    scheduler.add_job(run_batch_job, "interval", hours=24)
     scheduler.start()
 
     try:
