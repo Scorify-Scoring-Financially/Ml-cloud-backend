@@ -1,0 +1,1402 @@
+[
+  {
+    "customerId": "cmisl16040002e5c87o3tgdrk",
+    "campaignId": "cmisl162h0004e5c83sjxvfer",
+    "predicted_y": "yes",
+    "score": 0.6534579992294312,
+    "createdAt": "2025-12-06T12:09:17.419280"
+  },
+  {
+    "customerId": "cmisl16i1000ae5c86dumtvn4",
+    "campaignId": "cmisl16j5000ce5c8ji7vkkme",
+    "predicted_y": "yes",
+    "score": 0.5542641878128052,
+    "createdAt": "2025-12-06T12:09:17.429652"
+  },
+  {
+    "customerId": "cmisl16s0000ie5c8h4qjv52z",
+    "campaignId": "cmisl16t5000ke5c8egvnxwpf",
+    "predicted_y": "yes",
+    "score": 0.8918170928955078,
+    "createdAt": "2025-12-06T12:09:17.441510"
+  },
+  {
+    "customerId": "cmisl1721000qe5c8tfkh7y8e",
+    "campaignId": "cmisl1734000se5c8kpv89acn",
+    "predicted_y": "yes",
+    "score": 0.619761049747467,
+    "createdAt": "2025-12-06T12:09:17.455539"
+  },
+  {
+    "customerId": "cmisl17d4000ye5c8adrx7w8h",
+    "campaignId": "cmisl17e70010e5c8ojr775ti",
+    "predicted_y": "yes",
+    "score": 0.8715775609016418,
+    "createdAt": "2025-12-06T12:09:17.465912"
+  },
+  {
+    "customerId": "cmisl17mu0016e5c8o9cosugc",
+    "campaignId": "cmisl17o00018e5c87y204b1n",
+    "predicted_y": "yes",
+    "score": 0.891329824924469,
+    "createdAt": "2025-12-06T12:09:17.476364"
+  },
+  {
+    "customerId": "cmisl17wu001ee5c8kg89aahj",
+    "campaignId": "cmisl17xy001ge5c8fmzy4zt1",
+    "predicted_y": "yes",
+    "score": 0.8429438471794128,
+    "createdAt": "2025-12-06T12:09:17.487696"
+  },
+  {
+    "customerId": "cmisl186v001me5c8odl0wt8n",
+    "campaignId": "cmisl187y001oe5c869ol5s6k",
+    "predicted_y": "yes",
+    "score": 0.6454713940620422,
+    "createdAt": "2025-12-06T12:09:17.497169"
+  },
+  {
+    "customerId": "cmisl18gm001ue5c8o4ocj0x8",
+    "campaignId": "cmisl18hq001we5c8b7c4gu80",
+    "predicted_y": "yes",
+    "score": 0.8799687027931213,
+    "createdAt": "2025-12-06T12:09:17.510024"
+  },
+  {
+    "customerId": "cmisl18qb0022e5c8puib1tj9",
+    "campaignId": "cmisl18re0024e5c8ob20gz8d",
+    "predicted_y": "yes",
+    "score": 0.8960661888122559,
+    "createdAt": "2025-12-06T12:09:17.520496"
+  },
+  {
+    "customerId": "cmisl190b002ae5c8n09tcpha",
+    "campaignId": "cmisl191f002ce5c8qnskuuhx",
+    "predicted_y": "yes",
+    "score": 0.8770912885665894,
+    "createdAt": "2025-12-06T12:09:17.531994"
+  },
+  {
+    "customerId": "cmisl19aa002ie5c85mcxg390",
+    "campaignId": "cmisl19bf002ke5c82cogiuf0",
+    "predicted_y": "yes",
+    "score": 0.843055009841919,
+    "createdAt": "2025-12-06T12:09:17.543239"
+  },
+  {
+    "customerId": "cmisl19ka002qe5c8apd1sflm",
+    "campaignId": "cmisl19lf002se5c8pjs917fb",
+    "predicted_y": "yes",
+    "score": 0.6340336799621582,
+    "createdAt": "2025-12-06T12:09:17.554755"
+  },
+  {
+    "customerId": "cmisl19ua002ye5c8wdkj0cye",
+    "campaignId": "cmisl19vh0030e5c8uwbn8cpq",
+    "predicted_y": "yes",
+    "score": 0.6510393619537354,
+    "createdAt": "2025-12-06T12:09:17.564589"
+  },
+  {
+    "customerId": "cmisl1a4c0036e5c85ipiad6i",
+    "campaignId": "cmisl1a5e0038e5c8qkjp0zk3",
+    "predicted_y": "yes",
+    "score": 0.8757400512695312,
+    "createdAt": "2025-12-06T12:09:17.578564"
+  },
+  {
+    "customerId": "cmisl1aee003ee5c8s3i7ju13",
+    "campaignId": "cmisl1afo003ge5c80ayez97f",
+    "predicted_y": "no",
+    "score": 0.1742313951253891,
+    "createdAt": "2025-12-06T12:09:17.591168"
+  },
+  {
+    "customerId": "cmisl1aol003me5c8u0kdnj2e",
+    "campaignId": "cmisl1apo003oe5c8ycgj9if0",
+    "predicted_y": "no",
+    "score": 0.2876928150653839,
+    "createdAt": "2025-12-06T12:09:17.602930"
+  },
+  {
+    "customerId": "cmisl1ayp003ue5c8ivn8y760",
+    "campaignId": "cmisl1azz003we5c8fquppitv",
+    "predicted_y": "no",
+    "score": 0.3165430426597595,
+    "createdAt": "2025-12-06T12:09:17.617299"
+  },
+  {
+    "customerId": "cmisl1b8u0042e5c8l5sl282a",
+    "campaignId": "cmisl1b9z0044e5c89lijtrg7",
+    "predicted_y": "yes",
+    "score": 0.7357668280601501,
+    "createdAt": "2025-12-06T12:09:17.631172"
+  },
+  {
+    "customerId": "cmisl1biu004ae5c8kn5ksdad",
+    "campaignId": "cmisl1bjz004ce5c8dbfh5qqm",
+    "predicted_y": "yes",
+    "score": 0.769111156463623,
+    "createdAt": "2025-12-06T12:09:17.646437"
+  },
+  {
+    "customerId": "cmisl1bsv004ie5c8e1yzwd0e",
+    "campaignId": "cmisl1btz004ke5c8z3uiy947",
+    "predicted_y": "no",
+    "score": 0.2806243300437927,
+    "createdAt": "2025-12-06T12:09:17.657060"
+  },
+  {
+    "customerId": "cmisl1c2u004qe5c81bl1j29g",
+    "campaignId": "cmisl1c3z004se5c8nupj9c3m",
+    "predicted_y": "yes",
+    "score": 0.5705690383911133,
+    "createdAt": "2025-12-06T12:09:17.675044"
+  },
+  {
+    "customerId": "cmisl1ccu004ye5c8q1somfce",
+    "campaignId": "cmisl1cdz0050e5c85ckk83z4",
+    "predicted_y": "no",
+    "score": 0.22636407613754272,
+    "createdAt": "2025-12-06T12:09:17.686974"
+  },
+  {
+    "customerId": "cmisl1cma0056e5c85p0gzjfz",
+    "campaignId": "cmisl1cne0058e5c8xu8ril9d",
+    "predicted_y": "yes",
+    "score": 0.7449420690536499,
+    "createdAt": "2025-12-06T12:09:17.700371"
+  },
+  {
+    "customerId": "cmisl1cwa005ee5c81jz0n1cw",
+    "campaignId": "cmisl1cxf005ge5c8vu987bhb",
+    "predicted_y": "no",
+    "score": 0.27592113614082336,
+    "createdAt": "2025-12-06T12:09:17.712674"
+  },
+  {
+    "customerId": "cmisl1d6b005me5c85tco4yap",
+    "campaignId": "cmisl1d7e005oe5c8opq6jb9s",
+    "predicted_y": "no",
+    "score": 0.38754159212112427,
+    "createdAt": "2025-12-06T12:09:17.725828"
+  },
+  {
+    "customerId": "cmisl1dgb005ue5c8wa28fyad",
+    "campaignId": "cmisl1dhl005we5c81dr1vtcn",
+    "predicted_y": "yes",
+    "score": 0.5542641878128052,
+    "createdAt": "2025-12-06T12:09:17.741101"
+  },
+  {
+    "customerId": "cmisl1dql0062e5c8s6xi79li",
+    "campaignId": "cmisl1drp0064e5c8i08kvqdg",
+    "predicted_y": "no",
+    "score": 0.1742313951253891,
+    "createdAt": "2025-12-06T12:09:17.756491"
+  },
+  {
+    "customerId": "cmisl1e0l006ae5c8rbd36bay",
+    "campaignId": "cmisl1e1o006ce5c8hkpn2dyc",
+    "predicted_y": "no",
+    "score": 0.25714442133903503,
+    "createdAt": "2025-12-06T12:09:17.772431"
+  },
+  {
+    "customerId": "cmisl1eaa006ie5c8lubd8pn8",
+    "campaignId": "cmisl1ebe006ke5c8tm6mzd47",
+    "predicted_y": "yes",
+    "score": 0.6534579992294312,
+    "createdAt": "2025-12-06T12:09:17.789103"
+  },
+  {
+    "customerId": "cmisl1ekb006qe5c8jpc83fee",
+    "campaignId": "cmisl1elg006se5c8aakcf687",
+    "predicted_y": "no",
+    "score": 0.17144212126731873,
+    "createdAt": "2025-12-06T12:09:17.805041"
+  },
+  {
+    "customerId": "cmisl1eul006ye5c8cn4b092i",
+    "campaignId": "cmisl1evp0070e5c8kx59rrgi",
+    "predicted_y": "no",
+    "score": 0.3080817759037018,
+    "createdAt": "2025-12-06T12:09:17.817371"
+  },
+  {
+    "customerId": "cmisl1f4l0076e5c8w35k7856",
+    "campaignId": "cmisl1f5o0078e5c8c4etnr05",
+    "predicted_y": "yes",
+    "score": 0.8918170928955078,
+    "createdAt": "2025-12-06T12:09:17.831310"
+  },
+  {
+    "customerId": "cmisl1fel007ee5c8toorzbyv",
+    "campaignId": "cmisl1ffo007ge5c8bxc9x9zu",
+    "predicted_y": "no",
+    "score": 0.2876928150653839,
+    "createdAt": "2025-12-06T12:09:17.842365"
+  },
+  {
+    "customerId": "cmisl1fok007me5c8gwil63iy",
+    "campaignId": "cmisl1fpq007oe5c829kyyap1",
+    "predicted_y": "no",
+    "score": 0.3520658314228058,
+    "createdAt": "2025-12-06T12:09:17.855736"
+  },
+  {
+    "customerId": "cmisl1fyl007ue5c8ozsnv4on",
+    "campaignId": "cmisl1fzo007we5c8oen49q8e",
+    "predicted_y": "yes",
+    "score": 0.619761049747467,
+    "createdAt": "2025-12-06T12:09:17.869764"
+  },
+  {
+    "customerId": "cmisl1g8l0082e5c848nv0k77",
+    "campaignId": "cmisl1g9p0084e5c8a2pdyi9c",
+    "predicted_y": "yes",
+    "score": 0.7301292419433594,
+    "createdAt": "2025-12-06T12:09:17.881400"
+  },
+  {
+    "customerId": "cmisl1gib008ae5c8mfah2y3t",
+    "campaignId": "cmisl1gjh008ce5c86zvssiof",
+    "predicted_y": "no",
+    "score": 0.3165430426597595,
+    "createdAt": "2025-12-06T12:09:17.891380"
+  },
+  {
+    "customerId": "cmisl1gsa008ie5c8i1c1n7p8",
+    "campaignId": "cmisl1gtf008ke5c8lia7aux8",
+    "predicted_y": "yes",
+    "score": 0.8715775609016418,
+    "createdAt": "2025-12-06T12:09:17.904977"
+  },
+  {
+    "customerId": "cmisl1h20008qe5c8g5wrpr3c",
+    "campaignId": "cmisl1h34008se5c8j9wu11qb",
+    "predicted_y": "yes",
+    "score": 0.5013749599456787,
+    "createdAt": "2025-12-06T12:09:17.916129"
+  },
+  {
+    "customerId": "cmisl1hd4008ye5c8v1nmnsmq",
+    "campaignId": "cmisl1he90090e5c8cpxw6m79",
+    "predicted_y": "yes",
+    "score": 0.891329824924469,
+    "createdAt": "2025-12-06T12:09:17.928059"
+  },
+  {
+    "customerId": "cmisl1hmv0096e5c8fe6eoicq",
+    "campaignId": "cmisl1hnz0098e5c8fvboh6uc",
+    "predicted_y": "no",
+    "score": 0.24846158921718597,
+    "createdAt": "2025-12-06T12:09:17.941878"
+  },
+  {
+    "customerId": "cmisl1hwv009ee5c8p9h0cl93",
+    "campaignId": "cmisl1hxz009ge5c8g6el8weg",
+    "predicted_y": "yes",
+    "score": 0.7357668280601501,
+    "createdAt": "2025-12-06T12:09:17.952799"
+  },
+  {
+    "customerId": "cmisl1ied009me5c855cuy7y0",
+    "campaignId": "cmisl1ifg009oe5c8awxc8ur2",
+    "predicted_y": "yes",
+    "score": 0.8429438471794128,
+    "createdAt": "2025-12-06T12:09:17.962638"
+  },
+  {
+    "customerId": "cmisl1iod009ue5c85l8e088k",
+    "campaignId": "cmisl1iph009we5c8ilj8j1na",
+    "predicted_y": "no",
+    "score": 0.19483430683612823,
+    "createdAt": "2025-12-06T12:09:17.974574"
+  },
+  {
+    "customerId": "cmisl1iyd00a2e5c8qg9m98zk",
+    "campaignId": "cmisl1izh00a4e5c88hiz1ybs",
+    "predicted_y": "yes",
+    "score": 0.6454713940620422,
+    "createdAt": "2025-12-06T12:09:17.983596"
+  },
+  {
+    "customerId": "cmisl1j8c00aae5c8ydmi3ou4",
+    "campaignId": "cmisl1j9g00ace5c8oi7oux5i",
+    "predicted_y": "no",
+    "score": 0.20867784321308136,
+    "createdAt": "2025-12-06T12:09:17.995401"
+  },
+  {
+    "customerId": "cmisl1jid00aie5c8gudiaioh",
+    "campaignId": "cmisl1jjh00ake5c8k2059x6q",
+    "predicted_y": "yes",
+    "score": 0.769111156463623,
+    "createdAt": "2025-12-06T12:09:18.004316"
+  },
+  {
+    "customerId": "cmisl1jsd00aqe5c8c46fm2tg",
+    "campaignId": "cmisl1jtg00ase5c8iiss2now",
+    "predicted_y": "yes",
+    "score": 0.8799687027931213,
+    "createdAt": "2025-12-06T12:09:18.017538"
+  },
+  {
+    "customerId": "cmisl1k2f00aye5c8rcb7t5m1",
+    "campaignId": "cmisl1k3q00b0e5c8i7ojbu9u",
+    "predicted_y": "no",
+    "score": 0.31304702162742615,
+    "createdAt": "2025-12-06T12:09:18.028941"
+  },
+  {
+    "customerId": "cmisl1kcn00b6e5c82z60zif0",
+    "campaignId": "cmisl1kdt00b8e5c8x7npxwf1",
+    "predicted_y": "yes",
+    "score": 0.8960661888122559,
+    "createdAt": "2025-12-06T12:09:18.040336"
+  },
+  {
+    "customerId": "cmisl1kmm00bee5c830xm1850",
+    "campaignId": "cmisl1knq00bge5c8jq3q2eas",
+    "predicted_y": "no",
+    "score": 0.3082883358001709,
+    "createdAt": "2025-12-06T12:09:18.051519"
+  },
+  {
+    "customerId": "cmisl1kwn00bme5c8qgadcjrg",
+    "campaignId": "cmisl1kxr00boe5c837z53rry",
+    "predicted_y": "no",
+    "score": 0.2806243300437927,
+    "createdAt": "2025-12-06T12:09:18.062118"
+  },
+  {
+    "customerId": "cmisl1l6n00bue5c88o8an50z",
+    "campaignId": "cmisl1l7r00bwe5c8sakkk2yw",
+    "predicted_y": "yes",
+    "score": 0.8770912885665894,
+    "createdAt": "2025-12-06T12:09:18.075446"
+  },
+  {
+    "customerId": "cmisl1lgc00c2e5c88znc6kji",
+    "campaignId": "cmisl1lhg00c4e5c8mreei9qa",
+    "predicted_y": "yes",
+    "score": 0.7704352140426636,
+    "createdAt": "2025-12-06T12:09:18.085698"
+  },
+  {
+    "customerId": "cmisl1lqd00cae5c8v28c1vva",
+    "campaignId": "cmisl1lrh00cce5c8ng8qloj3",
+    "predicted_y": "yes",
+    "score": 0.5705690383911133,
+    "createdAt": "2025-12-06T12:09:18.096879"
+  },
+  {
+    "customerId": "cmisl1m0200cie5c80x1owwm6",
+    "campaignId": "cmisl1m1700cke5c8kkjuesf8",
+    "predicted_y": "no",
+    "score": 0.18754230439662933,
+    "createdAt": "2025-12-06T12:09:18.110011"
+  },
+  {
+    "customerId": "cmisl1ma200cqe5c8l4oor8u4",
+    "campaignId": "cmisl1mc100cse5c8s0a2l222",
+    "predicted_y": "yes",
+    "score": 0.843055009841919,
+    "createdAt": "2025-12-06T12:09:18.120438"
+  },
+  {
+    "customerId": "cmisl1mkx00cye5c8eyjnk6wf",
+    "campaignId": "cmisl1mm000d0e5c8agvnk8ow",
+    "predicted_y": "no",
+    "score": 0.32117629051208496,
+    "createdAt": "2025-12-06T12:09:18.131454"
+  },
+  {
+    "customerId": "cmisl1mux00d6e5c8ezc30fwh",
+    "campaignId": "cmisl1mw100d8e5c828nmz5o9",
+    "predicted_y": "no",
+    "score": 0.22636407613754272,
+    "createdAt": "2025-12-06T12:09:18.143159"
+  },
+  {
+    "customerId": "cmisl1n4x00dee5c8cy2hnjjq",
+    "campaignId": "cmisl1n6100dge5c8ufxs00ja",
+    "predicted_y": "no",
+    "score": 0.32645443081855774,
+    "createdAt": "2025-12-06T12:09:18.156530"
+  },
+  {
+    "customerId": "cmisl1ney00dme5c88gpvymti",
+    "campaignId": "cmisl1ng200doe5c8r9upmdvv",
+    "predicted_y": "yes",
+    "score": 0.6340336799621582,
+    "createdAt": "2025-12-06T12:09:18.171361"
+  },
+  {
+    "customerId": "cmisl1nox00due5c8qzx3j6ya",
+    "campaignId": "cmisl1nq100dwe5c81bc1qyn7",
+    "predicted_y": "yes",
+    "score": 0.7148851156234741,
+    "createdAt": "2025-12-06T12:09:18.185215"
+  },
+  {
+    "customerId": "cmisl1nyx00e2e5c8e98la3wz",
+    "campaignId": "cmisl1o0100e4e5c8zqreu6d0",
+    "predicted_y": "yes",
+    "score": 0.7449420690536499,
+    "createdAt": "2025-12-06T12:09:18.200023"
+  },
+  {
+    "customerId": "cmisl1o8x00eae5c82tk0f5b7",
+    "campaignId": "cmisl1oa100ece5c8k6ueexx0",
+    "predicted_y": "no",
+    "score": 0.2651258707046509,
+    "createdAt": "2025-12-06T12:09:18.211964"
+  },
+  {
+    "customerId": "cmisl1oiw00eie5c8hob0u21e",
+    "campaignId": "cmisl1ok000eke5c82h918pg3",
+    "predicted_y": "yes",
+    "score": 0.6510393619537354,
+    "createdAt": "2025-12-06T12:09:18.225728"
+  },
+  {
+    "customerId": "cmisl1osw00eqe5c8k3lw6lw9",
+    "campaignId": "cmisl1ou100ese5c8l2izu533",
+    "predicted_y": "no",
+    "score": 0.29445338249206543,
+    "createdAt": "2025-12-06T12:09:18.237249"
+  },
+  {
+    "customerId": "cmisl1p2w00eye5c8mr6727pj",
+    "campaignId": "cmisl1p4100f0e5c869jdmkit",
+    "predicted_y": "yes",
+    "score": 0.8757400512695312,
+    "createdAt": "2025-12-06T12:09:18.252227"
+  },
+  {
+    "customerId": "cmisl1pcw00f6e5c8kz4hf1jt",
+    "campaignId": "cmisl1pe100f8e5c8mclsvuqd",
+    "predicted_y": "no",
+    "score": 0.37294742465019226,
+    "createdAt": "2025-12-06T12:09:18.262943"
+  },
+  {
+    "customerId": "cmisl1pmm00fee5c8mf6m863d",
+    "campaignId": "cmisl1pnr00fge5c83ck2wapa",
+    "predicted_y": "no",
+    "score": 0.49431112408638,
+    "createdAt": "2025-12-06T12:09:18.274576"
+  },
+  {
+    "customerId": "cmisl1pwm00fme5c88cttlu4x",
+    "campaignId": "cmisl1pxq00foe5c8yeee8jjz",
+    "predicted_y": "yes",
+    "score": 0.5139203071594238,
+    "createdAt": "2025-12-06T12:09:18.286212"
+  },
+  {
+    "customerId": "cmisl1q6n00fue5c8yzohapj6",
+    "campaignId": "cmisl1q7h00fwe5c8hg9yphga",
+    "predicted_y": "yes",
+    "score": 0.7269667983055115,
+    "createdAt": "2025-12-06T12:09:18.298729"
+  },
+  {
+    "customerId": "cmisl1qgc00g2e5c832rbgqq3",
+    "campaignId": "cmisl1qh700g4e5c8tyzenavj",
+    "predicted_y": "no",
+    "score": 0.29363009333610535,
+    "createdAt": "2025-12-06T12:09:18.317054"
+  },
+  {
+    "customerId": "cmisl1qop00gae5c8rkeagbew",
+    "campaignId": "cmisl1qps00gce5c88axwd80h",
+    "predicted_y": "no",
+    "score": 0.3787324130535126,
+    "createdAt": "2025-12-06T12:09:18.333458"
+  },
+  {
+    "customerId": "cmisl1qye00gie5c8ur95z8dm",
+    "campaignId": "cmisl1qzj00gke5c8d3pj4ofu",
+    "predicted_y": "yes",
+    "score": 0.716728687286377,
+    "createdAt": "2025-12-06T12:09:18.346051"
+  },
+  {
+    "customerId": "cmisl1r8e00gqe5c8bjp7watg",
+    "campaignId": "cmisl1r9i00gse5c8dyv1rzbz",
+    "predicted_y": "yes",
+    "score": 0.5232985019683838,
+    "createdAt": "2025-12-06T12:09:18.364628"
+  },
+  {
+    "customerId": "cmisl1rie00gye5c8d2e2hu9o",
+    "campaignId": "cmisl1rjj00h0e5c843nah3sc",
+    "predicted_y": "no",
+    "score": 0.23729071021080017,
+    "createdAt": "2025-12-06T12:09:18.376566"
+  },
+  {
+    "customerId": "cmisl1rse00h6e5c8y781te0h",
+    "campaignId": "cmisl1rti00h8e5c8ezvl043y",
+    "predicted_y": "no",
+    "score": 0.3319113552570343,
+    "createdAt": "2025-12-06T12:09:18.388758"
+  },
+  {
+    "customerId": "cmisl1s1v00hee5c82hbo0qv5",
+    "campaignId": "cmisl1s2y00hge5c8xmhq0uam",
+    "predicted_y": "no",
+    "score": 0.3668101727962494,
+    "createdAt": "2025-12-06T12:09:18.401313"
+  },
+  {
+    "customerId": "cmisl1sbl00hme5c8vnx1krfk",
+    "campaignId": "cmisl1scp00hoe5c844s6clp1",
+    "predicted_y": "yes",
+    "score": 0.738067090511322,
+    "createdAt": "2025-12-06T12:09:18.412255"
+  },
+  {
+    "customerId": "cmisl1sln00hue5c88npv9ei9",
+    "campaignId": "cmisl1snt00hwe5c8o175rksj",
+    "predicted_y": "no",
+    "score": 0.3664775490760803,
+    "createdAt": "2025-12-06T12:09:18.421541"
+  },
+  {
+    "customerId": "cmisl1sxu00i2e5c84azx9rdh",
+    "campaignId": "cmisl1syx00i4e5c8ai797a2s",
+    "predicted_y": "no",
+    "score": 0.1723422110080719,
+    "createdAt": "2025-12-06T12:09:18.431246"
+  },
+  {
+    "customerId": "cmisl1t7t00iae5c8q3gvudyr",
+    "campaignId": "cmisl1t8x00ice5c84d2pgm4q",
+    "predicted_y": "no",
+    "score": 0.2775075137615204,
+    "createdAt": "2025-12-06T12:09:18.444545"
+  },
+  {
+    "customerId": "cmisl1ti300iie5c8hqe3f9cd",
+    "campaignId": "cmisl1tj700ike5c8h7s9b94n",
+    "predicted_y": "yes",
+    "score": 0.7762445211410522,
+    "createdAt": "2025-12-06T12:09:18.456999"
+  },
+  {
+    "customerId": "cmisl1ts300iqe5c8sljgl9yr",
+    "campaignId": "cmisl1tt700ise5c8khx12y10",
+    "predicted_y": "yes",
+    "score": 0.8779864311218262,
+    "createdAt": "2025-12-06T12:09:18.472893"
+  },
+  {
+    "customerId": "cmisl1u2300iye5c8f06lr5rl",
+    "campaignId": "cmisl1u3700j0e5c8236v1tf7",
+    "predicted_y": "no",
+    "score": 0.29363009333610535,
+    "createdAt": "2025-12-06T12:09:18.483710"
+  },
+  {
+    "customerId": "cmisl1uaz00j6e5c8hkiuz5jl",
+    "campaignId": "cmisl1uc300j8e5c871fvdqzz",
+    "predicted_y": "yes",
+    "score": 0.6040065288543701,
+    "createdAt": "2025-12-06T12:09:18.496262"
+  },
+  {
+    "customerId": "cmisl1uky00jee5c8rid7bhl0",
+    "campaignId": "cmisl1um300jge5c8sjcip541",
+    "predicted_y": "yes",
+    "score": 0.8770841956138611,
+    "createdAt": "2025-12-06T12:09:18.506864"
+  },
+  {
+    "customerId": "cmisl1uuz00jme5c89meeydov",
+    "campaignId": "cmisl1uw400joe5c8lhz6yq92",
+    "predicted_y": "no",
+    "score": 0.27592113614082336,
+    "createdAt": "2025-12-06T12:09:18.518791"
+  },
+  {
+    "customerId": "cmisl1v5800jue5c8wqux9x2f",
+    "campaignId": "cmisl1v6e00jwe5c89lxn57pt",
+    "predicted_y": "yes",
+    "score": 0.7460528612136841,
+    "createdAt": "2025-12-06T12:09:18.532452"
+  },
+  {
+    "customerId": "cmisl1vfd00k2e5c8nvzq6l1o",
+    "campaignId": "cmisl1vgd00k4e5c8jxcs5wev",
+    "predicted_y": "no",
+    "score": 0.35569390654563904,
+    "createdAt": "2025-12-06T12:09:18.547813"
+  },
+  {
+    "customerId": "cmisl1vp900kae5c8wvoguz94",
+    "campaignId": "cmisl1vqd00kce5c8v9k94rbm",
+    "predicted_y": "yes",
+    "score": 0.6510393619537354,
+    "createdAt": "2025-12-06T12:09:18.564241"
+  },
+  {
+    "customerId": "cmisl1vz900kie5c83xmmdjq6",
+    "campaignId": "cmisl1w0d00kke5c8la9xw0ei",
+    "predicted_y": "no",
+    "score": 0.2926981449127197,
+    "createdAt": "2025-12-06T12:09:18.575109"
+  },
+  {
+    "customerId": "cmisl1w9900kqe5c89z7ygxcf",
+    "campaignId": "cmisl1wad00kse5c8tizx8jen",
+    "predicted_y": "yes",
+    "score": 0.6345009803771973,
+    "createdAt": "2025-12-06T12:09:18.587717"
+  },
+  {
+    "customerId": "cmisl1wj900kye5c8xvkgjyed",
+    "campaignId": "cmisl1wkd00l0e5c8v68bsuv6",
+    "predicted_y": "no",
+    "score": 0.2887606620788574,
+    "createdAt": "2025-12-06T12:09:18.604642"
+  },
+  {
+    "customerId": "cmisl1wt900l6e5c8ftp60063",
+    "campaignId": "cmisl1wuc00l8e5c8biij5ob4",
+    "predicted_y": "yes",
+    "score": 0.6454713940620422,
+    "createdAt": "2025-12-06T12:09:18.621030"
+  },
+  {
+    "customerId": "cmisl1x3900lee5c8lokwxc6g",
+    "campaignId": "cmisl1x4c00lge5c8u9not9ys",
+    "predicted_y": "yes",
+    "score": 0.8554949760437012,
+    "createdAt": "2025-12-06T12:09:18.638333"
+  },
+  {
+    "customerId": "cmisl1xd900lme5c8y5bthizc",
+    "campaignId": "cmisl1xed00loe5c8klwxx55s",
+    "predicted_y": "no",
+    "score": 0.27281126379966736,
+    "createdAt": "2025-12-06T12:09:18.654710"
+  },
+  {
+    "customerId": "cmisl1xn900lue5c8afe5u3sj",
+    "campaignId": "cmisl1xod00lwe5c8c2sechox",
+    "predicted_y": "no",
+    "score": 0.39167267084121704,
+    "createdAt": "2025-12-06T12:09:18.668413"
+  },
+  {
+    "customerId": "cmisl1xx900m2e5c8m7a9uzl1",
+    "campaignId": "cmisl1xyd00m4e5c8d3wok5vy",
+    "predicted_y": "yes",
+    "score": 0.8771241307258606,
+    "createdAt": "2025-12-06T12:09:18.680589"
+  },
+  {
+    "customerId": "cmisl1y7900mae5c88pf8pzvm",
+    "campaignId": "cmisl1y8d00mce5c8e7hrne62",
+    "predicted_y": "yes",
+    "score": 0.8515819907188416,
+    "createdAt": "2025-12-06T12:09:18.690930"
+  },
+  {
+    "customerId": "cmisl1yh900mie5c81h8bxl0d",
+    "campaignId": "cmisl1yid00mke5c84pz4dekp",
+    "predicted_y": "no",
+    "score": 0.22928890585899353,
+    "createdAt": "2025-12-06T12:09:18.702939"
+  },
+  {
+    "customerId": "cmisl1yr900mqe5c8un1sgkci",
+    "campaignId": "cmisl1ysd00mse5c82o3nev7v",
+    "predicted_y": "yes",
+    "score": 0.716728687286377,
+    "createdAt": "2025-12-06T12:09:18.714503"
+  },
+  {
+    "customerId": "cmisl1z1900mye5c8uasjlqpu",
+    "campaignId": "cmisl1z2d00n0e5c8rma1k27e",
+    "predicted_y": "yes",
+    "score": 0.878030002117157,
+    "createdAt": "2025-12-06T12:09:18.729492"
+  },
+  {
+    "customerId": "cmisl1zb900n6e5c87gzy2t5p",
+    "campaignId": "cmisl1zce00n8e5c84ow7u6lx",
+    "predicted_y": "yes",
+    "score": 0.8966089487075806,
+    "createdAt": "2025-12-06T12:09:18.743920"
+  },
+  {
+    "customerId": "cmisl1zl900nee5c8pqwfjf21",
+    "campaignId": "cmisl1zmd00nge5c829am1ld0",
+    "predicted_y": "yes",
+    "score": 0.5257463455200195,
+    "createdAt": "2025-12-06T12:09:18.755570"
+  },
+  {
+    "customerId": "cmisl1zv900nme5c8ae01rb00",
+    "campaignId": "cmisl1zwd00noe5c8j3taa579",
+    "predicted_y": "no",
+    "score": 0.1724642813205719,
+    "createdAt": "2025-12-06T12:09:18.769109"
+  },
+  {
+    "customerId": "cmisl204f00nue5c87gu03lfl",
+    "campaignId": "cmisl205k00nwe5c86eprx2sq",
+    "predicted_y": "yes",
+    "score": 0.7620286345481873,
+    "createdAt": "2025-12-06T12:09:18.787862"
+  },
+  {
+    "customerId": "cmisl20dv00o2e5c81umm9uel",
+    "campaignId": "cmisl20ez00o4e5c8j6m8eeup",
+    "predicted_y": "yes",
+    "score": 0.516786515712738,
+    "createdAt": "2025-12-06T12:09:18.808311"
+  },
+  {
+    "customerId": "cmisl20nw00oae5c8mgz19wjr",
+    "campaignId": "cmisl20oz00oce5c8d2b7p1ff",
+    "predicted_y": "no",
+    "score": 0.3596075773239136,
+    "createdAt": "2025-12-06T12:09:18.825712"
+  },
+  {
+    "customerId": "cmisl20xv00oie5c8n4y9ich2",
+    "campaignId": "cmisl20z000oke5c8bigu6a0y",
+    "predicted_y": "yes",
+    "score": 0.5676831007003784,
+    "createdAt": "2025-12-06T12:09:18.843617"
+  },
+  {
+    "customerId": "cmisl217v00oqe5c85o8b1nms",
+    "campaignId": "cmisl219000ose5c8v96ylksn",
+    "predicted_y": "no",
+    "score": 0.2920866310596466,
+    "createdAt": "2025-12-06T12:09:18.910024"
+  },
+  {
+    "customerId": "cmisl21hv00oye5c8jqv6e7jj",
+    "campaignId": "cmisl21iz00p0e5c8r5if1va1",
+    "predicted_y": "yes",
+    "score": 0.8906422853469849,
+    "createdAt": "2025-12-06T12:09:18.928261"
+  },
+  {
+    "customerId": "cmisl21rv00p6e5c8nfwt3zxo",
+    "campaignId": "cmisl21sz00p8e5c8stjlg8or",
+    "predicted_y": "yes",
+    "score": 0.7301292419433594,
+    "createdAt": "2025-12-06T12:09:18.941958"
+  },
+  {
+    "customerId": "cmisl221v00pee5c89jloxod9",
+    "campaignId": "cmisl222z00pge5c8jilcsm3i",
+    "predicted_y": "yes",
+    "score": 0.619761049747467,
+    "createdAt": "2025-12-06T12:09:18.953632"
+  },
+  {
+    "customerId": "cmisl22bw00pme5c8n2vgbgsr",
+    "campaignId": "cmisl22d000poe5c8o1yle9g2",
+    "predicted_y": "yes",
+    "score": 0.8731381297111511,
+    "createdAt": "2025-12-06T12:09:18.966189"
+  },
+  {
+    "customerId": "cmisl22lv00pue5c892iguwnb",
+    "campaignId": "cmisl22mz00pwe5c861gfmdjt",
+    "predicted_y": "no",
+    "score": 0.2642990052700043,
+    "createdAt": "2025-12-06T12:09:18.976439"
+  },
+  {
+    "customerId": "cmisl22vu00q2e5c8scaqkd43",
+    "campaignId": "cmisl22wz00q4e5c8no3p00dh",
+    "predicted_y": "yes",
+    "score": 0.8922291994094849,
+    "createdAt": "2025-12-06T12:09:18.986860"
+  },
+  {
+    "customerId": "cmisl235w00qae5c8r70k4gx2",
+    "campaignId": "cmisl237000qce5c8i0ueevtz",
+    "predicted_y": "yes",
+    "score": 0.8429438471794128,
+    "createdAt": "2025-12-06T12:09:18.997077"
+  },
+  {
+    "customerId": "cmisl23fv00qie5c8xdhsq82r",
+    "campaignId": "cmisl23gz00qke5c8rohv8tlp",
+    "predicted_y": "yes",
+    "score": 0.6205148696899414,
+    "createdAt": "2025-12-06T12:09:19.006113"
+  },
+  {
+    "customerId": "cmisl23pv00qqe5c8daby2mzp",
+    "campaignId": "cmisl23qz00qse5c8o0ooixzl",
+    "predicted_y": "no",
+    "score": 0.2952338755130768,
+    "createdAt": "2025-12-06T12:09:19.015642"
+  },
+  {
+    "customerId": "cmisl23zw00qye5c8f63tld37",
+    "campaignId": "cmisl240z00r0e5c8gz0tjk0g",
+    "predicted_y": "no",
+    "score": 0.39126867055892944,
+    "createdAt": "2025-12-06T12:09:19.025098"
+  },
+  {
+    "customerId": "cmisl249v00r6e5c8zckzelnz",
+    "campaignId": "cmisl24b000r8e5c8ak5ep490",
+    "predicted_y": "yes",
+    "score": 0.7221403121948242,
+    "createdAt": "2025-12-06T12:09:19.035188"
+  },
+  {
+    "customerId": "cmisl24kz00ree5c8xch2b36e",
+    "campaignId": "cmisl24m300rge5c8n8wyo7y1",
+    "predicted_y": "yes",
+    "score": 0.6534579992294312,
+    "createdAt": "2025-12-06T12:09:19.045469"
+  },
+  {
+    "customerId": "cmisl24uz00rme5c8we8b5gb8",
+    "campaignId": "cmisl24w300roe5c8i8ld7xvo",
+    "predicted_y": "yes",
+    "score": 0.5658937096595764,
+    "createdAt": "2025-12-06T12:09:19.055486"
+  },
+  {
+    "customerId": "cmisl255000rue5c8j1c2znz0",
+    "campaignId": "cmisl255q00rwe5c83toqpyhs",
+    "predicted_y": "yes",
+    "score": 0.8922807574272156,
+    "createdAt": "2025-12-06T12:09:19.065240"
+  },
+  {
+    "customerId": "cmisl25ep00s2e5c8aspb72rm",
+    "campaignId": "cmisl25ft00s4e5c841nmdjge",
+    "predicted_y": "yes",
+    "score": 0.6219143867492676,
+    "createdAt": "2025-12-06T12:09:19.077408"
+  },
+  {
+    "customerId": "cmisl25oz00sae5c8yo7x5c0j",
+    "campaignId": "cmisl25q400sce5c8fzjl93cx",
+    "predicted_y": "yes",
+    "score": 0.8749643564224243,
+    "createdAt": "2025-12-06T12:09:19.090703"
+  },
+  {
+    "customerId": "cmisl25yq00sie5c8cxo35q4n",
+    "campaignId": "cmisl25zt00ske5c8gp0qvi0f",
+    "predicted_y": "yes",
+    "score": 0.891329824924469,
+    "createdAt": "2025-12-06T12:09:19.106845"
+  },
+  {
+    "customerId": "cmisl268p00sqe5c8rl55ef1x",
+    "campaignId": "cmisl269t00sse5c86x0hmlav",
+    "predicted_y": "yes",
+    "score": 0.8429438471794128,
+    "createdAt": "2025-12-06T12:09:19.117493"
+  },
+  {
+    "customerId": "cmisl26iq00sye5c87111rrv9",
+    "campaignId": "cmisl26jt00t0e5c8wp9crw7v",
+    "predicted_y": "yes",
+    "score": 0.6219143867492676,
+    "createdAt": "2025-12-06T12:09:19.135090"
+  },
+  {
+    "customerId": "cmisl26sp00t6e5c88ykw2a0p",
+    "campaignId": "cmisl26tu00t8e5c8kqgagmb9",
+    "predicted_y": "yes",
+    "score": 0.8799687027931213,
+    "createdAt": "2025-12-06T12:09:19.151710"
+  },
+  {
+    "customerId": "cmisl272p00tee5c8u8tgp161",
+    "campaignId": "cmisl273t00tge5c8ke6owopj",
+    "predicted_y": "yes",
+    "score": 0.8963838815689087,
+    "createdAt": "2025-12-06T12:09:19.171437"
+  },
+  {
+    "customerId": "cmisl27cp00tme5c81nvf9a0e",
+    "campaignId": "cmisl27dt00toe5c8frv0mbda",
+    "predicted_y": "yes",
+    "score": 0.8776865005493164,
+    "createdAt": "2025-12-06T12:09:19.186320"
+  },
+  {
+    "customerId": "cmisl27mp00tue5c8ipw1yxo7",
+    "campaignId": "cmisl27nt00twe5c8cx1b2c93",
+    "predicted_y": "yes",
+    "score": 0.843055009841919,
+    "createdAt": "2025-12-06T12:09:19.201088"
+  },
+  {
+    "customerId": "cmisl27wp00u2e5c8zkq75g9u",
+    "campaignId": "cmisl27xt00u4e5c8ryi08mui",
+    "predicted_y": "yes",
+    "score": 0.6311888098716736,
+    "createdAt": "2025-12-06T12:09:19.214970"
+  },
+  {
+    "customerId": "cmisl286p00uae5c8ewx3qlpc",
+    "campaignId": "cmisl287t00uce5c8duphtki8",
+    "predicted_y": "yes",
+    "score": 0.6550424098968506,
+    "createdAt": "2025-12-06T12:09:19.230042"
+  },
+  {
+    "customerId": "cmisl28gu00uie5c83gekfffb",
+    "campaignId": "cmisl28ht00uke5c8lq4r5e4c",
+    "predicted_y": "yes",
+    "score": 0.8757400512695312,
+    "createdAt": "2025-12-06T12:09:19.246443"
+  },
+  {
+    "customerId": "cmisl28qp00uqe5c8dun8qllk",
+    "campaignId": "cmisl28rt00use5c8712l11p9",
+    "predicted_y": "no",
+    "score": 0.17420879006385803,
+    "createdAt": "2025-12-06T12:09:19.256731"
+  },
+  {
+    "customerId": "cmisl290p00uye5c8z548u5ms",
+    "campaignId": "cmisl291u00v0e5c8ym1ie6g0",
+    "predicted_y": "no",
+    "score": 0.2792232036590576,
+    "createdAt": "2025-12-06T12:09:19.267617"
+  },
+  {
+    "customerId": "cmisl29aq00v6e5c8dv7jm4md",
+    "campaignId": "cmisl29bv00v8e5c8vz24gfzo",
+    "predicted_y": "no",
+    "score": 0.31788116693496704,
+    "createdAt": "2025-12-06T12:09:19.278632"
+  },
+  {
+    "customerId": "cmisl29l000vee5c83eqlaih5",
+    "campaignId": "cmisl29m400vge5c85uj69vgr",
+    "predicted_y": "yes",
+    "score": 0.7370412945747375,
+    "createdAt": "2025-12-06T12:09:19.288564"
+  },
+  {
+    "customerId": "cmisl29tl00vme5c87x10aqx0",
+    "campaignId": "cmisl29ue00voe5c88zxgxwj5",
+    "predicted_y": "yes",
+    "score": 0.7708743810653687,
+    "createdAt": "2025-12-06T12:09:19.298913"
+  },
+  {
+    "customerId": "cmisl2a1300vue5c8kc0fwx7x",
+    "campaignId": "cmisl2a2700vwe5c89u0nimqy",
+    "predicted_y": "no",
+    "score": 0.283122181892395,
+    "createdAt": "2025-12-06T12:09:19.310806"
+  },
+  {
+    "customerId": "cmisl2ab300w2e5c8i1ie45k1",
+    "campaignId": "cmisl2ac800w4e5c8u9r22ij1",
+    "predicted_y": "yes",
+    "score": 0.586194634437561,
+    "createdAt": "2025-12-06T12:09:19.320886"
+  },
+  {
+    "customerId": "cmisl2akt00wae5c86x96n2aj",
+    "campaignId": "cmisl2aln00wce5c8s72xtezh",
+    "predicted_y": "no",
+    "score": 0.2100471556186676,
+    "createdAt": "2025-12-06T12:09:19.331685"
+  },
+  {
+    "customerId": "cmisl2auj00wie5c8dvaudb7j",
+    "campaignId": "cmisl2avn00wke5c83ners18q",
+    "predicted_y": "yes",
+    "score": 0.7461874485015869,
+    "createdAt": "2025-12-06T12:09:19.340778"
+  },
+  {
+    "customerId": "cmisl2b4j00wqe5c8zirhwhj7",
+    "campaignId": "cmisl2b5n00wse5c8e61y4cwj",
+    "predicted_y": "no",
+    "score": 0.2927016615867615,
+    "createdAt": "2025-12-06T12:09:19.352164"
+  },
+  {
+    "customerId": "cmisl2ben00wye5c82lmbyyn1",
+    "campaignId": "cmisl2bfx00x0e5c8ocabqxff",
+    "predicted_y": "no",
+    "score": 0.38754159212112427,
+    "createdAt": "2025-12-06T12:09:19.363761"
+  },
+  {
+    "customerId": "cmisl2bot00x6e5c886ard2nv",
+    "campaignId": "cmisl2bpx00x8e5c8bnf2ur03",
+    "predicted_y": "yes",
+    "score": 0.5610485076904297,
+    "createdAt": "2025-12-06T12:09:19.373549"
+  },
+  {
+    "customerId": "cmisl2byr00xee5c85zlzfio3",
+    "campaignId": "cmisl2bzx00xge5c84wor6e2o",
+    "predicted_y": "no",
+    "score": 0.1913112848997116,
+    "createdAt": "2025-12-06T12:09:19.384273"
+  },
+  {
+    "customerId": "cmisl2c8t00xme5c88lao237v",
+    "campaignId": "cmisl2c9x00xoe5c8z1brqjks",
+    "predicted_y": "no",
+    "score": 0.20949187874794006,
+    "createdAt": "2025-12-06T12:09:19.393941"
+  },
+  {
+    "customerId": "cmisl2cit00xue5c8aho5dnce",
+    "campaignId": "cmisl2cjx00xwe5c8ic62fi1j",
+    "predicted_y": "yes",
+    "score": 0.6572524905204773,
+    "createdAt": "2025-12-06T12:09:19.405308"
+  },
+  {
+    "customerId": "cmisl2csu00y2e5c8rrjz6aat",
+    "campaignId": "cmisl2cty00y4e5c8sgxnfiqz",
+    "predicted_y": "no",
+    "score": 0.17628245055675507,
+    "createdAt": "2025-12-06T12:09:19.415544"
+  },
+  {
+    "customerId": "cmisl2d2t00yae5c8h1a50ydu",
+    "campaignId": "cmisl2d3x00yce5c8ncggez8q",
+    "predicted_y": "no",
+    "score": 0.3283892273902893,
+    "createdAt": "2025-12-06T12:09:19.426146"
+  },
+  {
+    "customerId": "cmisl2dd100yie5c8lpyndph8",
+    "campaignId": "cmisl2de800yke5c8s5l5napz",
+    "predicted_y": "yes",
+    "score": 0.8921581506729126,
+    "createdAt": "2025-12-06T12:09:19.440966"
+  },
+  {
+    "customerId": "cmisl2dn300yqe5c8u27ys7ml",
+    "campaignId": "cmisl2do800yse5c8acp1s5ni",
+    "predicted_y": "no",
+    "score": 0.2746489346027374,
+    "createdAt": "2025-12-06T12:09:19.456825"
+  },
+  {
+    "customerId": "cmisl2dx400yye5c8nwx49x8i",
+    "campaignId": "cmisl2dy700z0e5c8fvuijscs",
+    "predicted_y": "no",
+    "score": 0.3566901385784149,
+    "createdAt": "2025-12-06T12:09:19.469473"
+  },
+  {
+    "customerId": "cmisl2e6k00z6e5c81abiuaeo",
+    "campaignId": "cmisl2e7n00z8e5c826mmeb1f",
+    "predicted_y": "yes",
+    "score": 0.619761049747467,
+    "createdAt": "2025-12-06T12:09:19.483372"
+  },
+  {
+    "customerId": "cmisl2egk00zee5c8dkwbouu3",
+    "campaignId": "cmisl2eho00zge5c8ckbfwowp",
+    "predicted_y": "yes",
+    "score": 0.741895854473114,
+    "createdAt": "2025-12-06T12:09:19.499121"
+  },
+  {
+    "customerId": "cmisl2eql00zme5c8soo1how0",
+    "campaignId": "cmisl2ero00zoe5c83ssihvwu",
+    "predicted_y": "no",
+    "score": 0.33523494005203247,
+    "createdAt": "2025-12-06T12:09:19.514280"
+  },
+  {
+    "customerId": "cmisl2f0j00zue5c82q1jowxv",
+    "campaignId": "cmisl2f1o00zwe5c806coptx4",
+    "predicted_y": "yes",
+    "score": 0.8744209408760071,
+    "createdAt": "2025-12-06T12:09:19.528557"
+  },
+  {
+    "customerId": "cmisl2fak0102e5c8inva0a3l",
+    "campaignId": "cmisl2fbo0104e5c8tki14k7i",
+    "predicted_y": "yes",
+    "score": 0.5013749599456787,
+    "createdAt": "2025-12-06T12:09:19.546933"
+  },
+  {
+    "customerId": "cmisl2fkk010ae5c8q4bkjm90",
+    "campaignId": "cmisl2flo010ce5c89j11dd69",
+    "predicted_y": "yes",
+    "score": 0.891329824924469,
+    "createdAt": "2025-12-06T12:09:19.559884"
+  },
+  {
+    "customerId": "cmisl2fuj010ie5c80bacwxwf",
+    "campaignId": "cmisl2fvo010ke5c8uib65e4e",
+    "predicted_y": "no",
+    "score": 0.24846158921718597,
+    "createdAt": "2025-12-06T12:09:19.572413"
+  },
+  {
+    "customerId": "cmisl2g5n010qe5c8lo4wy30c",
+    "campaignId": "cmisl2g6r010se5c80idxx02y",
+    "predicted_y": "yes",
+    "score": 0.7370412945747375,
+    "createdAt": "2025-12-06T12:09:19.583743"
+  },
+  {
+    "customerId": "cmisl2gfo010ye5c84m0x90gf",
+    "campaignId": "cmisl2ggs0110e5c86rk4i956",
+    "predicted_y": "yes",
+    "score": 0.8443776965141296,
+    "createdAt": "2025-12-06T12:09:19.597676"
+  },
+  {
+    "customerId": "cmisl2gpn0116e5c8gjudo2pn",
+    "campaignId": "cmisl2gqr0118e5c85nnp0mqk",
+    "predicted_y": "no",
+    "score": 0.17109613120555878,
+    "createdAt": "2025-12-06T12:09:19.611773"
+  },
+  {
+    "customerId": "cmisl2gzo011ee5c8c72xl1sf",
+    "campaignId": "cmisl2h0t011ge5c8vm859v5g",
+    "predicted_y": "yes",
+    "score": 0.6301906704902649,
+    "createdAt": "2025-12-06T12:09:19.625111"
+  },
+  {
+    "customerId": "cmisl2ha7011me5c8luqfnt9l",
+    "campaignId": "cmisl2hbb011oe5c8eal3rvt6",
+    "predicted_y": "no",
+    "score": 0.1837245374917984,
+    "createdAt": "2025-12-06T12:09:19.639914"
+  },
+  {
+    "customerId": "cmisl2hk7011ue5c8inuxgybe",
+    "campaignId": "cmisl2hlc011we5c8bxkk56l8",
+    "predicted_y": "yes",
+    "score": 0.7708743810653687,
+    "createdAt": "2025-12-06T12:09:19.653405"
+  },
+  {
+    "customerId": "cmisl2hu70122e5c8ki2w0e35",
+    "campaignId": "cmisl2hve0124e5c89gpmjq93",
+    "predicted_y": "yes",
+    "score": 0.8799687027931213,
+    "createdAt": "2025-12-06T12:09:19.670696"
+  },
+  {
+    "customerId": "cmisl2i47012ae5c8w3ln642n",
+    "campaignId": "cmisl2i5c012ce5c8vq9tn9r1",
+    "predicted_y": "no",
+    "score": 0.3049725890159607,
+    "createdAt": "2025-12-06T12:09:19.685899"
+  },
+  {
+    "customerId": "cmisl2ie7012ie5c87v9gqgmi",
+    "campaignId": "cmisl2ifc012ke5c8feqd22dp",
+    "predicted_y": "yes",
+    "score": 0.8961659669876099,
+    "createdAt": "2025-12-06T12:09:19.702138"
+  },
+  {
+    "customerId": "cmisl2io8012qe5c8x4i0i2qw",
+    "campaignId": "cmisl2ipb012se5c8r6u3g8z8",
+    "predicted_y": "no",
+    "score": 0.3082568347454071,
+    "createdAt": "2025-12-06T12:09:19.715495"
+  },
+  {
+    "customerId": "cmisl2iy9012ye5c8j0pgl527",
+    "campaignId": "cmisl2izc0130e5c8vftgqcmi",
+    "predicted_y": "no",
+    "score": 0.28924915194511414,
+    "createdAt": "2025-12-06T12:09:19.731176"
+  },
+  {
+    "customerId": "cmisl2j7x0136e5c8bm42chon",
+    "campaignId": "cmisl2j910138e5c84ixkr9id",
+    "predicted_y": "yes",
+    "score": 0.8781548738479614,
+    "createdAt": "2025-12-06T12:09:19.747309"
+  },
+  {
+    "customerId": "cmisl2jgt013ee5c8ehm2a2af",
+    "campaignId": "cmisl2jhq013ge5c8jm5elp39",
+    "predicted_y": "yes",
+    "score": 0.7704352140426636,
+    "createdAt": "2025-12-06T12:09:19.764475"
+  },
+  {
+    "customerId": "cmisl2jqd013me5c8exj5ksbw",
+    "campaignId": "cmisl2jrd013oe5c8cw703xq0",
+    "predicted_y": "yes",
+    "score": 0.5747365951538086,
+    "createdAt": "2025-12-06T12:09:19.779727"
+  },
+  {
+    "customerId": "cmisl2k09013ue5c847s8pjup",
+    "campaignId": "cmisl2k1e013we5c8cmw1nsaw",
+    "predicted_y": "no",
+    "score": 0.1722434163093567,
+    "createdAt": "2025-12-06T12:09:19.794483"
+  },
+  {
+    "customerId": "cmisl2k9z0142e5c8cc9f1ec4",
+    "campaignId": "cmisl2kb40144e5c8ph2vepxn",
+    "predicted_y": "yes",
+    "score": 0.843055009841919,
+    "createdAt": "2025-12-06T12:09:19.809343"
+  },
+  {
+    "customerId": "cmisl2kk0014ae5c8msdty6cw",
+    "campaignId": "cmisl2kl6014ce5c830fvy6uu",
+    "predicted_y": "no",
+    "score": 0.3553100824356079,
+    "createdAt": "2025-12-06T12:09:19.825612"
+  },
+  {
+    "customerId": "cmisl2ku1014ie5c8v2e7sn7b",
+    "campaignId": "cmisl2kv4014ke5c899dqhhhy",
+    "predicted_y": "no",
+    "score": 0.22636407613754272,
+    "createdAt": "2025-12-06T12:09:19.839752"
+  },
+  {
+    "customerId": "cmisl2l4a014qe5c8g0qmps3t",
+    "campaignId": "cmisl2l5e014se5c8ijizft5u",
+    "predicted_y": "no",
+    "score": 0.3410170376300812,
+    "createdAt": "2025-12-06T12:09:19.853270"
+  },
+  {
+    "customerId": "cmisl2lea014ye5c8jnltdpmy",
+    "campaignId": "cmisl2lfe0150e5c83m6c5f4o",
+    "predicted_y": "yes",
+    "score": 0.6339401602745056,
+    "createdAt": "2025-12-06T12:09:19.869024"
+  },
+  {
+    "customerId": "cmisl2lnz0156e5c8vdutvfyf",
+    "campaignId": "cmisl2lp40158e5c8ohpv314t",
+    "predicted_y": "yes",
+    "score": 0.7449249029159546,
+    "createdAt": "2025-12-06T12:09:19.884287"
+  },
+  {
+    "customerId": "cmisl2ly1015ee5c8fewv3g8i",
+    "campaignId": "cmisl2lz4015ge5c80l5aaevf",
+    "predicted_y": "yes",
+    "score": 0.7405853271484375,
+    "createdAt": "2025-12-06T12:09:19.897933"
+  },
+  {
+    "customerId": "cmisl2m83015me5c8hjpo6p22",
+    "campaignId": "cmisl2m94015oe5c84mx93z08",
+    "predicted_y": "no",
+    "score": 0.267985999584198,
+    "createdAt": "2025-12-06T12:09:19.912976"
+  },
+  {
+    "customerId": "cmisl2mhz015ue5c8x73mw3ky",
+    "campaignId": "cmisl2mj3015we5c8vgz1ulmn",
+    "predicted_y": "yes",
+    "score": 0.6510393619537354,
+    "createdAt": "2025-12-06T12:09:19.922893"
+  },
+  {
+    "customerId": "cmisl2ms00162e5c8eortfx7b",
+    "campaignId": "cmisl2mt70164e5c8p66cqayd",
+    "predicted_y": "no",
+    "score": 0.2801715135574341,
+    "createdAt": "2025-12-06T12:09:19.933659"
+  },
+  {
+    "customerId": "cmisl2n1q016ae5c8uukdgjdh",
+    "campaignId": "cmisl2n2t016ce5c8hztmhek4",
+    "predicted_y": "yes",
+    "score": 0.8746739625930786,
+    "createdAt": "2025-12-06T12:09:19.945086"
+  },
+  {
+    "customerId": "cmisl2nc0016ie5c8s712rk99",
+    "campaignId": "cmisl2nd4016ke5c8ur9obepv",
+    "predicted_y": "no",
+    "score": 0.37294742465019226,
+    "createdAt": "2025-12-06T12:09:19.956734"
+  },
+  {
+    "customerId": "cmisl2nlr016qe5c8r5t1038e",
+    "campaignId": "cmisl2nmt016se5c8ulk5578u",
+    "predicted_y": "no",
+    "score": 0.4926595687866211,
+    "createdAt": "2025-12-06T12:09:19.967265"
+  },
+  {
+    "customerId": "cmisl2nvf016ye5c8pbon2ttx",
+    "campaignId": "cmisl2nwk0170e5c8wxje929k",
+    "predicted_y": "yes",
+    "score": 0.524605929851532,
+    "createdAt": "2025-12-06T12:09:19.979187"
+  },
+  {
+    "customerId": "cmisl2o5f0176e5c8grms9x23",
+    "campaignId": "cmisl2o6j0178e5c82v5tq9tm",
+    "predicted_y": "yes",
+    "score": 0.7347256541252136,
+    "createdAt": "2025-12-06T12:09:19.991275"
+  },
+  {
+    "customerId": "cmisl2ofg017ee5c8hmm5ge66",
+    "campaignId": "cmisl2ogk017ge5c8nnxc4h5p",
+    "predicted_y": "no",
+    "score": 0.29363009333610535,
+    "createdAt": "2025-12-06T12:09:20.004109"
+  },
+  {
+    "customerId": "cmisl2oph017me5c8yv0n2jay",
+    "campaignId": "cmisl2oqk017oe5c8to85q1tm",
+    "predicted_y": "no",
+    "score": 0.3719536364078522,
+    "createdAt": "2025-12-06T12:09:20.016713"
+  },
+  {
+    "customerId": "cmisl2ozg017ue5c8pxmg9t4o",
+    "campaignId": "cmisl2p0k017we5c8y6xluv2g",
+    "predicted_y": "yes",
+    "score": 0.7073812484741211,
+    "createdAt": "2025-12-06T12:09:20.028996"
+  },
+  {
+    "customerId": "cmisl2p9i0182e5c8lcdy0ij5",
+    "campaignId": "cmisl2pak0184e5c8g6emz4ya",
+    "predicted_y": "yes",
+    "score": 0.5181024670600891,
+    "createdAt": "2025-12-06T12:09:20.044136"
+  },
+  {
+    "customerId": "cmisl2pjg018ae5c8iab56yka",
+    "campaignId": "cmisl2pkk018ce5c88gdnw9wj",
+    "predicted_y": "no",
+    "score": 0.23909273743629456,
+    "createdAt": "2025-12-06T12:09:20.057033"
+  }
+]
