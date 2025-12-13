@@ -1,37 +1,22 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Header, HTTPException
 from contextlib import asynccontextmanager
-from app.backend.db import  Base, engine
+from app.backend.db import Base, engine
 from app.ml.ml_service import run_batch_job
-from apscheduler.schedulers.background import BackgroundScheduler
-import logging
+import os
 
-from opentelemetry.instrumentation.fastapi import FastAPIInstrumentor
+API_KEY = os.getenv("BATCH_API_KEY")
 
-
-logging.basicConfig(level=logging.INFO)
-
-
-# Scheduler instance
-scheduler = BackgroundScheduler()
 @asynccontextmanager
 async def lifespan(_app: FastAPI):
-    # Startup
     Base.metadata.create_all(bind=engine)
     print("✅ STARTUP TRIGGERED")
-
-    # Run once at startup
-    run_batch_job()
-
-    # Start scheduler (runs every 3 minutes)
-    scheduler.add_job(run_batch_job, "interval", hours=24)
-    scheduler.start()
-
-    try:
-        yield  # <-- FastAPI will serve requests here
-    finally:
-        # Optional cleanup (shutdown scheduler)
-        scheduler.shutdown()
-        print("🛑 Scheduler stopped")
+    yield
 
 app = FastAPI(title="Scorify Backend", lifespan=lifespan)
 
+@app.post("/run-batch")
+def run_batch(x_api_key: str = Header(None)):
+    if x_api_key != API_KEY:
+        raise HTTPException(status_code=401, detail="Unauthorized")
+    run_batch_job()
+    return {"status": "batch_started"}
