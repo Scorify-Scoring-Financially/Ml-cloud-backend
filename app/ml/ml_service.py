@@ -1,35 +1,12 @@
 # app/services/ml_service.py
-import joblib
-import logging
 import uuid
 from datetime import datetime
 import pandas as pd 
 from sqlalchemy.exc import SQLAlchemyError
 from app.backend.models import LeadScore
-from app.backend.db import SessionLocal
-from app.backend.models import Customer, Campaign, MacroData
-
-
-#monitoring
-from app.monitoring.metrics import (
-    push_leads_processed,
-    push_leads_skipped,
-    push_batch_duration,
-    push_batch_errors
-)
-
-from time import perf_counter
-
 # timezone
 from datetime import datetime
 from zoneinfo import ZoneInfo
-
-# Load model & preprocessor lokal
-model = joblib.load("best_bank_model_xgb.pkl")
-preprocessor = joblib.load("preprocessor.pkl")
-
-logging.basicConfig(level=logging.INFO)
-
 
 # Define timezone Jakarta
 JAKARTA_TZ = ZoneInfo("Asia/Jakarta")  
@@ -62,7 +39,7 @@ def prepare_input(customer, campaign, macro_dict):
 
 
 # Batch prediciton function
-def batch_predict(db, customers, campaigns, macro_dict):
+def batch_predict(db, customers, campaigns, macro_dict, model, preprocessor):
     """Generate LeadScore, SKIP data yang sudah pernah diprediksi"""
 
     results = []
@@ -106,7 +83,7 @@ def batch_predict(db, customers, campaigns, macro_dict):
                     batch_id=batch_id,          #per batch
                     model_version=model_version,
                     threshold=threshold,
-                    createdAt=datetime.utcnow()
+                    createdAt=datetime.now(JAKARTA_TZ)
                 )
 
                 db.add(new_lead)
@@ -151,6 +128,32 @@ def batch_predict(db, customers, campaigns, macro_dict):
 # Scheduler job function
 def run_batch_job():
     """Fungsi yang dijalankan scheduler"""
+    import joblib
+    import os
+    import pandas as pd
+    import logging
+    import uuid
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+    from time import perf_counter
+    from sqlalchemy.exc import SQLAlchemyError
+    from app.backend.db import SessionLocal
+    from app.backend.models import Customer, Campaign, MacroData, LeadScore
+    from app.monitoring.metrics import (
+        push_leads_processed,
+        push_leads_skipped,
+        push_batch_duration,
+        push_batch_errors
+    )
+
+    logging.basicConfig(level=logging.INFO)
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+    # Load model here, lazily
+    model = joblib.load(os.path.join(BASE_DIR, "best_bank_model_xgb.pkl"))
+    preprocessor = joblib.load(os.path.join(BASE_DIR, "preprocessor.pkl"))
+
+    JAKARTA_TZ = ZoneInfo("Asia/Jakarta")
     db = SessionLocal()
     start_time = perf_counter()
     batch_errors = 0
@@ -170,21 +173,20 @@ def run_batch_job():
             "nr_employed": m.nr_employed
         } for m in macro_data}
 
-        updated = batch_predict(db, customers, campaigns, macro_dict)
+        updated = batch_predict(db, customers, campaigns, macro_dict, model, preprocessor)
 
-        # Push metrics to Cloud Monitoring
         push_leads_processed(updated.get("created", 0))
         push_leads_skipped(updated.get("skipped", 0))
 
     except Exception as e:
         logging.error(f"[Scheduler ERROR]: {str(e)}")
         batch_errors = 1
-        push_batch_errors(batch_errors)  # Push error metric
+        push_batch_errors(batch_errors)
 
     finally:
         db.close()
         duration = perf_counter() - start_time
-        push_batch_duration(duration)  # push duration metric
+        push_batch_duration(duration)
         logging.info(f"[Scheduler] Batch duration: {duration:.2f}s")
         logging.info(f"[Scheduler] Result: {updated if 'updated' in locals() else 'ERROR'}")
 
